@@ -1,0 +1,22 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ciisiq: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@github.com/SchoolOfCode/node-101-workshop-team-vacation.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Cintia and Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-team-vacation/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-team-vacation#readme"
+}
